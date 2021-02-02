@@ -1,5 +1,3 @@
-int chunks = 500;
-int chunkSize;
 int yEnd, lEnd, rEnd, nEnd = 10;
 float T = 50, rhol = 0.00578f, c;
 float timestep = 0.9f;
